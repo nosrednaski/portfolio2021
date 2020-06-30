@@ -6,4 +6,4 @@
 - Scroll animations
 - Parallax
 - Static
-- hover animation
+- Hover animations
