@@ -1,7 +1,7 @@
 <template>
   <div class="container1" data-aos="fade-up">
     <div class="textContainer">
-      <h1>Aboot</h1>
+      <h1>About</h1>
       <br>
       <br>
       <h2>I love learning new tools and making functional, efficient stacks. I am a full stack developer who is passionate about bringing new perspectives and solutions to each project.</h2>
