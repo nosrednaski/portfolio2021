@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-      <h1>Projects</h1>
+      <h1 data-aos="flip-up">Projects</h1>
         <div class="grid">
             <Project v-for="project in projects" :img="project.img" :projectLink="project.projectLink" :codeLink="project.codeLink" :description="project.description" :key="project.img"/>
         </div>
