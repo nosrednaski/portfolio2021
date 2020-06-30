@@ -8,9 +8,7 @@
         <a href="https://www.linkedin.com/in/jeffrey-anderson-731955141/" target="_blank" label="LinkedIn profile">
             <img src="../assets/linkedin.png" alt="linkedin icon">
         </a>
-        <a href="https://github.com/nosrednaski" target="_blank">
-            <img src="../assets/github.svg" alt="github icon">
-        </a>
+        
         
       </div>
   </div>    
@@ -39,9 +37,11 @@ export default {
     display flex  
     a 
         margin-right 2rem
+    a :hover   
+      transform scale(1.1)   
     img
         height 4rem
         width 4rem
-    
+        
 
 </style>

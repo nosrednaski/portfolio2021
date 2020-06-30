@@ -39,8 +39,8 @@ export default {
         display grid
         grid-template-columns: 1fr 1fr
         grid-template-rows: 1fr 1fr;
-        grid-column-gap: 1rem
-        grid-row-gap: 1rem
+        grid-column-gap: 3rem
+        grid-row-gap: 4rem
         justify-items: center
         align-items: center
 </style>

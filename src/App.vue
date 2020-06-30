@@ -30,16 +30,17 @@ export default {
 </script>
 
 <style lang="stylus">
-
-#app {
+$grey= rgba(0,0,0,.7)
+#app 
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
   background #F6F4F3
+  color $grey
 
   
-}
+
 
 /* 040F0F
 4E937A

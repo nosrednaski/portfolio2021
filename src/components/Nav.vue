@@ -42,22 +42,16 @@ export default {
 <!-- Add "scoped" attribute to limit CSS to this component only -->
 <style scoped lang="stylus">
 @import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap');
-* {
-  box-sizing: border-box;
-  &::before, &::after {
-    box-sizing: border-box;
-  }
-}
 
+$grey= rgba(0,0,0,.8)
 div.navbar-item.name
-    color: rgb(4, 15, 15)
     margin-left: 2rem
     a 
         position: relative
         display: inline-block
         font-size: 1.75em
         font-family: 'Merriweather', serif; 
-        color: black
+        color: $grey
         font-weight: 500
         text-decoration: none
         overflow: hidden

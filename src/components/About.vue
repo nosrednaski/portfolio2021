@@ -4,7 +4,7 @@
       <h1>About</h1>
       <br>
       <br>
-      <h2>I love learning new tools and making functional efficient stacks. I am a full stack developer who is passionate about bringing new perspectives and solutions to each project.</h2>
+      <h2>I love learning new tools and making functional, efficient stacks. I am a full stack developer who is passionate about bringing new perspectives and solutions to each project.</h2>
     </div>
   </div>    
 </template>
