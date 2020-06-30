@@ -25,7 +25,8 @@ export default {
     Parallax,
     ProjectsContainer,
     Contact
-  }
+  },
+  title: 'Jeff Anderson'
 }
 </script>
 
