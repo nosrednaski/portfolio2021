@@ -20,7 +20,7 @@ export default {
           { img:"NYT", projectLink:"https://newyorktimesmernstack.herokuapp.com/", codeLink:"https://github.com/nosrednaski/nytReact", description: "Save your favorite NYT historical articles."},
           { img:"pouches2", projectLink:"http://pouches.herokuapp.com/", codeLink:"https://github.com/nosrednaski/Pouches", description: "Research your next KickStarter idea."},
           { img:"trivia2", projectLink:"https://nosrednaski.github.io/TriviaGame/", codeLink:"https://github.com/nosrednaski/TriviaGame", description: "Leaf Identification quiz"},
-          { img:"gems2", projectLink:"https://nosrednaski.github.io/gem-game/", codeLink:"https://github.com/nosrednaski/gem-game", description: "Math puzzle"},
+          { img:"gems", projectLink:"https://nosrednaski.github.io/gem-game/", codeLink:"https://github.com/nosrednaski/gem-game", description: "Math puzzle"},
         ],
        }
   },

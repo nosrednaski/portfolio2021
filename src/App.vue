@@ -26,12 +26,13 @@ export default {
     ProjectsContainer,
     Contact
   },
-  title: 'Jeff Anderson'
 }
 </script>
 
 <style lang="stylus">
+
 $grey= rgba(0,0,0,.7)
+
 #app 
   font-family: Avenir, Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
@@ -40,12 +41,5 @@ $grey= rgba(0,0,0,.7)
   background #F6F4F3
   color $grey
 
-  
 
-
-/* 040F0F
-4E937A
-EFF9F0
-F87060
-5688C7 */
 </style>
