@@ -21,7 +21,7 @@
                 </a>
             </b-navbar-item>
             <b-navbar-item tag="a" class="tail">
-                <a href="https://drive.google.com/file/d/1ruzWXBajenh7TUviL3cUybu2_EaZD99V/view?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/1EFqr3nm-FnTzc8Ryi7qxyCf0-W1rGWxW/view?usp=sharing" target="_blank">
                     <img src="../assets/resume.png" alt="resume icon">
                 </a>
             </b-navbar-item>
