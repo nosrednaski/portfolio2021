@@ -4,7 +4,7 @@
 
         <template slot="brand" >
             <b-navbar-item tag="div" class="name">
-                <a href="https://drive.google.com/file/d/1ruzWXBajenh7TUviL3cUybu2_EaZD99V/view?usp=sharing" data-content="Jeff Anderson" target="_blank">Jeff Anderson</a>
+                <a href="https://drive.google.com/file/d/1EFqr3nm-FnTzc8Ryi7qxyCf0-W1rGWxW/view?usp=sharing" data-content="Jeff Anderson" target="_blank">Jeff Anderson</a>
             </b-navbar-item>
         </template>
         
