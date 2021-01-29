@@ -4,7 +4,7 @@
 
         <template slot="brand" >
             <b-navbar-item tag="div" class="name">
-                <a href="https://drive.google.com/file/d/1EFqr3nm-FnTzc8Ryi7qxyCf0-W1rGWxW/view?usp=sharing" data-content="Jeff Anderson" target="_blank">Jeff Anderson</a>
+                <a href="https://drive.google.com/file/d/1AoFBDH56jbrT4horqV_gmz-Rf1kg0rfq/view?usp=sharing" data-content="Jeff Anderson" target="_blank">Jeff Anderson</a>
             </b-navbar-item>
         </template>
         
@@ -21,7 +21,7 @@
                 </a>
             </b-navbar-item>
             <b-navbar-item tag="a" class="tail">
-                <a href="https://drive.google.com/file/d/1EFqr3nm-FnTzc8Ryi7qxyCf0-W1rGWxW/view?usp=sharing" target="_blank">
+                <a href="https://drive.google.com/file/d/1AoFBDH56jbrT4horqV_gmz-Rf1kg0rfq/view?usp=sharing" target="_blank">
                     <img src="../assets/resume.png" alt="resume icon">
                 </a>
             </b-navbar-item>
