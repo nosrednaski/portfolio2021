@@ -10,11 +10,7 @@
         
 
         <template slot="end">
-            <b-navbar-item tag="a">
-                <a href="https://www.linkedin.com/in/jeffrey-anderson-731955141/" target="_blank" label="LinkedIn profile">
-                    <img src="../assets/linkedin.png" alt="linkedin icon">
-                </a>
-            </b-navbar-item>
+            
             <b-navbar-item tag="a">
                 <a href="https://github.com/nosrednaski" target="_blank">
                     <img src="../assets/github.svg" alt="github icon">

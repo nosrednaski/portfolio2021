@@ -5,9 +5,6 @@
         <a href="mailto:nosrednaski@gmail.com?subject=Viewed%20your%20portfolio&body=Dearest%20nosrednaski%2C" target="_blank">
             <img src="../assets/mailto.svg" alt="mail to icon">
         </a>
-        <a href="https://www.linkedin.com/in/jeffrey-anderson-731955141/" target="_blank" label="LinkedIn profile">
-            <img src="../assets/linkedin.png" alt="linkedin icon">
-        </a>
         
         
       </div>
